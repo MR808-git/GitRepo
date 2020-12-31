@@ -7,3 +7,5 @@ Adding third line
 
 Say Hello in between
 
+Adding fourth line on Remote - to simulate User2 pushing commits to remote
+
